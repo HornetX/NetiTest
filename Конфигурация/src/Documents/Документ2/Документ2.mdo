@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cb211f65-8f82-4865-b402-58a6d3a2c617">
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2b02ae31-7114-427f-98f5-50122e92fcf9">
   <producedTypes>
     <objectType typeId="be644bdb-6dd0-408c-bdf4-6bbcc70cc8f7" valueTypeId="503855c9-68f8-4c27-9252-835e4242d9fa"/>
     <refType typeId="ad9d0f71-14ce-4047-922a-7703e312378b" valueTypeId="8b92a4ad-d3ec-4f2b-b15a-82de99c2de35"/>
