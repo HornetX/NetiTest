@@ -30,4 +30,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <documents>Document.Документ</documents>
+  <documents>Document.Документ1</documents>
 </mdclass:Configuration>
