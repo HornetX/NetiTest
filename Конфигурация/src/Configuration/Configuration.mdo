@@ -29,4 +29,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <documents>Document.Документ</documents>
 </mdclass:Configuration>
