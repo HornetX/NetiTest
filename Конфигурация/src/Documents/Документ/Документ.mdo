@@ -25,4 +25,19 @@
   <autonumbering>true</autonumbering>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="41f92e43-c0d1-43f6-8542-82649d374879">
+    <name>Реквизит</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
 </mdclass:Document>
